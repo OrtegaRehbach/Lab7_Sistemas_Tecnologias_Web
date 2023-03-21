@@ -1,0 +1,25 @@
+#navigation {
+    /* background-color: lightseagreen; */
+    /* padding: 10px; */
+    border-radius: 3px;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    border: 2px solid black;
+    border-radius: 3px;
+    padding: 5px 10px;
+    background-color: lightgrey;
+}
